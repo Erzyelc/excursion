@@ -36,3 +36,6 @@ footer{
     color: gray;
 }
 
+a{
+    text-decoration-color: gray;
+}
